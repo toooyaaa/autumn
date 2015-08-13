@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<bean id="name" class="fdsfda.java">
+		<property name="prop">
+			<ref bean="myPropertiesBean" />
+		</property>
+	</bean>
+	
+	<bean id="myPropertiesBean"  class="fdsdddfda.java">
+	</bean>
+</xml>
