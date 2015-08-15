@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<beans>
 	<bean id="name" class="fdsfda.java">
 		<property name="prop">
 			<ref bean="myPropertiesBean" />
@@ -7,4 +8,5 @@
 	
 	<bean id="myPropertiesBean"  class="fdsdddfda.java">
 	</bean>
-</xml>
+</beans>
+
